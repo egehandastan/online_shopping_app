@@ -1,1 +1,1 @@
-#AI Shopping System with Flutter
+#Online Shopping App with Flutter
