@@ -1,1 +1,1 @@
-#CMPE313 AI Shopping System
+#AI Shopping System with Flutter
